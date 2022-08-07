@@ -1,4 +1,4 @@
-# final-project-team-13
+# Movie-Recommendation-Application
 final-project-team-13 created by GitHub Classroom.   
 
 ==Cinemy==.        
