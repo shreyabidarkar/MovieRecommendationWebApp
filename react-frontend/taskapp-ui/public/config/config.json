@@ -1,0 +1,4 @@
+{
+    "taskitem_api_url" : "http://localhost:7001/tasks",
+    "fetch_movies_api_url" : "http://localhost:5001/movies/getmovie"
+}
